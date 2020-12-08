@@ -1,4 +1,4 @@
-#Infographics
+# Infographics
 * This has been created in Figma and is currently being used by AnitaB.org's outreach and documentation programme.  
 * It was submitted as a part of OpenSourceHack 
 

@@ -1,4 +1,4 @@
-#About Screen
+# About Screen
 
 * This has been created in Figma and is currently being used by AnitaB.org's mobile application.  
 * It was submitted as a part of OpenSourceHack 

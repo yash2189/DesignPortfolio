@@ -1,4 +1,4 @@
-#Email Verification Screen
+# Email Verification Screen
 
 This is a mockup for email verfication screen for web as well as mobile
 
