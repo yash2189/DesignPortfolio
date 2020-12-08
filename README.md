@@ -1,5 +1,5 @@
 # DesignPortfolio
-This includes all my design projects created in Figma :zap:
+This includes all my design projects created in Figma :zap: :pencil:
 
 * I have always been curious about designing UI's and mockups :smiley:
 
