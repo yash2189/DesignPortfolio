@@ -2,9 +2,9 @@
 * This has been created in Figma and is currently being used by AnitaB.org's outreach and documentation programme.  
 * It was submitted as a part of OpenSourceHack 
 
-## Drive Link : https://drive.google.com/file/d/1h4VpnEcaQKAClaNLicwnmcFj5rPvZFww/view?usp=sharing
+## Drive Link : Drive link can be found [here](https://drive.google.com/file/d/1h4VpnEcaQKAClaNLicwnmcFj5rPvZFww/view?usp=sharing)
 
-## Figma Prototype Link : https://www.figma.com/proto/iYc6pPw3Wcp9eaq5gA4G0V/Untitled?node-id=1%3A14&viewport=265%2C218%2C0.1459025889635086&scaling=scale-down
+## Figma Prototype Link : Prototype can be found [here](https://www.figma.com/proto/iYc6pPw3Wcp9eaq5gA4G0V/Untitled?node-id=1%3A14&viewport=265%2C218%2C0.1459025889635086&scaling=scale-down)
 
 ### Resources
 
